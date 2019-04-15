@@ -9,11 +9,11 @@ title = "NVIDIA Toronto AI Lab"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://nv-tlabs.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy;{year} NVIDIA Toronto AI Lab"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
