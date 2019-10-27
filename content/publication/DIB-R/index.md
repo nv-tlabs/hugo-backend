@@ -73,8 +73,9 @@ url_source = ""
 [image]
   # Caption (optional)
   caption = ""
-
+  placement = 3
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
+  preview_only = true
 +++
